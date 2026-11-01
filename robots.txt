@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ikebude.github.io/sitemap-index.xml
